@@ -6,3 +6,11 @@
 - As a user, I want to download the app to the home screen on my mobile device
 
 
+## Installation
+- npm init --y
+- npm i -D webpack webpack-cli
+- npm run webpack -v
+- npm run build
+- npm i jquery
+- npm i bootstrap
+- npm i popper.js
