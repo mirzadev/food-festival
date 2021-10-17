@@ -14,3 +14,6 @@
 - npm i jquery
 - npm i bootstrap
 - npm i popper.js
+- npm install -D webpack-bundle-analyzer
+- npm install -D file-loader
+- npm i image-webpack-loader
