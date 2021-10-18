@@ -20,3 +20,4 @@
 
 - npm i webpack-dev-server -D
 - npm run start:dev
+- npm i -D webpack-pwa-manifest
