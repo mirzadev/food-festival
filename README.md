@@ -17,3 +17,6 @@
 - npm install -D webpack-bundle-analyzer
 - npm install -D file-loader
 - npm i image-webpack-loader
+
+- npm i webpack-dev-server -D
+- npm run start:dev
